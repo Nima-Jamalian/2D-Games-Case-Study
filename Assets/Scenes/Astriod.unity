@@ -153,6 +153,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: db99fe1ce8c0542469e290b54418bf6b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  mouseCursor: {fileID: 1073640335}
   rotation: 0
   speed: 3
   laserPrefab: {fileID: 6669796539172183908, guid: 477a189e98daf4c1ea4e7a4c880eca55, type: 3}
